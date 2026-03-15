@@ -1,2 +1,3 @@
 # eaglercraft-1.13-fabric
-A basic translation of a vanilla build via TeaVM
+You can compile one via the official 1.8.8 workspace and injecting the source code of this into the src.
+There are pre-compiled ones available here!
